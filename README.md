@@ -11,7 +11,7 @@ This should be quick start, depending on project.
 2) Under library folder, there is added consts for churchid or groupid if needed. With corresponding login options in the general_api.dart you can just comment out the general login function and uncomment the desigered login function.
 
 ![IMAGE1](https://raw.githubusercontent.com/suscoptsportal/suscopts-flutter-starter/master/img/suscopts-flutter-starter1.png)
-![IMAGE2](https://raw.githubusercontent.com/suscoptsportal/suscopts-flutter-starter/master/img/suscopts-flutter-starter1.png)
+![IMAGE2](https://raw.githubusercontent.com/suscoptsportal/suscopts-flutter-starter/master/img/suscopts-flutter-starter2.png)
 
 
 
