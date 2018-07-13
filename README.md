@@ -10,6 +10,8 @@ This should be quick start, depending on project.
 
 2) Under library folder, there is added consts for churchid or groupid if needed. With corresponding login options in the general_api.dart you can just comment out the general login function and uncomment the desigered login function.
 
+Other API information <a href="http://api.suscopts.org" target="_blank">http://api.suscopts.org</a>
+
 <table>
   <tr>
     <td>
