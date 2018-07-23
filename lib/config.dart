@@ -1,4 +1,4 @@
-const String api = 'http://suscoptsapi.stmary.info';
+const String api = 'https://api.suscopts.org';
 
 // add basic auth you can get this from the clergy web portal in settings
 const String basicAuth = 'Basic '+'c3VzY29wdHM6c3QhZ2VvcmdlfHN0IW1pbmE=';
