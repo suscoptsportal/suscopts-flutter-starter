@@ -42,9 +42,9 @@ Future<String> login(String email, String password) async {
   }
 } 
 /*
- Limit to going members to church. 
+ Limit to only main congregation members to church. 
  All for any possible congregation and Main core members. 
- http://suscoptsapi.stmary.info/login/[all | main]/[churches_id]/
+ https://api.suscopts.org/login/[all | main]/[churches_id]/
 
 */
 
@@ -65,8 +65,8 @@ Future<String> login(String email, String password) async {
 // } 
 
 /*
-  Limit to group
-  http://suscoptsapi.stmary.info/login/group/[group_id]/
+  Limit to group only
+  https://api.suscopts.org/login/group/[group_id]/
 */
 
 // Future<String> login(String email, String password) async {
